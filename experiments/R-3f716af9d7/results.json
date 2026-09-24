@@ -1,0 +1,8 @@
+{
+  "metric": "MAE",
+  "baseline": 2.8608820265003168,
+  "experimental": 0.9651105984430001,
+  "difference": -1.8957714280573166,
+  "relative_improvement": 0.662652779980722,
+  "seed": 42
+}

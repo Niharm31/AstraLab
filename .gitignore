@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+astralab.db
+*.db
+data/cache/
+reports/*.html
+experiments/*/artifacts/

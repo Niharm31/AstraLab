@@ -1,0 +1,6 @@
+{
+  "seed": 42,
+  "python": "3.13.5",
+  "experiment": "synthetic_regression_baseline_vs_random_forest",
+  "duration_seconds": 0.2483
+}
